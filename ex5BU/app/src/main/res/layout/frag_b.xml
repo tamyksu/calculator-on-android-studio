@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/red_square"
+    android:clickable="true">
+
+   <!-- <include
+        layout="@layout/sub_layout"
+        android:background="#F4D0D0" />
+-->
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="253dp"
+        android:layout_height="86dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/red_rounded"
+        android:gravity="center"
+        android:text="0"
+        android:textSize="24sp" />
+
+</FrameLayout>

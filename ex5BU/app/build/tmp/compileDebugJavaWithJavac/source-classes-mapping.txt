@@ -1,0 +1,20 @@
+com/example/ex5x/BuildConfig.java
+ com.example.ex5x.BuildConfig
+com/example/ex5x/FragB.java
+ com.example.ex5x.FragB
+ com.example.ex5x.FragB$1
+ com.example.ex5x.FragB$2
+com/example/ex5x/FragA.java
+ com.example.ex5x.FragA
+ com.example.ex5x.FragA$1
+ com.example.ex5x.FragA$2
+ com.example.ex5x.FragA$ClickHandler
+ com.example.ex5x.FragA$WatchText
+com/example/ex5x/MainActivity.java
+ com.example.ex5x.MainActivity
+com/example/ex5x/Dialog.java
+ com.example.ex5x.Dialog
+ com.example.ex5x.Dialog$1
+ com.example.ex5x.Dialog$2
+ com.example.ex5x.Dialog$DataReporter
+ com.example.ex5x.Dialog$HandlerDialog

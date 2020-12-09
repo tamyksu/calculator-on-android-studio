@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout_sub_layout.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout\\sub_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout-port_activity_main.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout-port\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normal_square.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable\\normal_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_break_line.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-mdpi\\break_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_square.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable\\red_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_frag_b.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\menu\\menu_frag_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rounded.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-mdpi\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-mdpi\\square.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_b.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout\\frag_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_sub_layout.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout-land\\sub_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_a.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout\\frag_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_rounded.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\drawable\\red_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\bella\\AndroidStudioProjects\\ex5BU\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    }
+]
